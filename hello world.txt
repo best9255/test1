@@ -4,6 +4,5 @@
     <title>test github</title>
 </head>
 <body>
-    <h1>Hello World!!!</h1>
-    <h2>welcome</h2>
+    <h2>welcome to my world</h2>
 </body>
